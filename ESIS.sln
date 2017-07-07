@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESIS", "ESIS\ESIS.csproj", "{11DA8EF5-AA3F-46CE-8ED3-8675AB516A23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{7910402D-86A4-43CE-9617-E1494333301A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{AA21506B-1682-4EE1-8B76-8C2123E3E428}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{11DA8EF5-AA3F-46CE-8ED3-8675AB516A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11DA8EF5-AA3F-46CE-8ED3-8675AB516A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11DA8EF5-AA3F-46CE-8ED3-8675AB516A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7910402D-86A4-43CE-9617-E1494333301A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7910402D-86A4-43CE-9617-E1494333301A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7910402D-86A4-43CE-9617-E1494333301A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7910402D-86A4-43CE-9617-E1494333301A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA21506B-1682-4EE1-8B76-8C2123E3E428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA21506B-1682-4EE1-8B76-8C2123E3E428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA21506B-1682-4EE1-8B76-8C2123E3E428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA21506B-1682-4EE1-8B76-8C2123E3E428}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
